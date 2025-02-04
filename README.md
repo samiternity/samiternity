@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sami Ullah </h1>
 
-<!--
-**samiternity/samiternity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Freshman BS Artificial Intelligence student at Bahria University, Karachi
 
-Here are some ideas to get you started:
+### About Me
+- Currently mastering C++ and exploring AI fundamentals
+- Building projects to strengthen my programming foundation
+- Open to collaborate on beginner-friendly projects
+- Recently built: [Quiz Management System in C++](https://github.com/samiternity/QuizManagementSystem)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)
+
+### Let's Connect
+<a href="mailto:samiullah.su@outlook.com">![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/samiullahq">![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)</a>&nbsp;&nbsp;
+<a href="https://t.me/samiternity">![Telegram](https://go-skill-icons.vercel.app/api/icons?i=telegram)</a>
