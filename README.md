@@ -6,7 +6,9 @@
 - Currently mastering C++, Java, Python and exploring AI fundamentals
 - Building projects to strengthen my programming foundation
 - Open to collaborate on beginner-friendly projects
-- Recently built: [Quiz Management System in C++](https://github.com/samiternity/QuizManagementSystem)
+- Recently built:
+  - [Quiz Management System in C++](https://github.com/samiternity/QuizManagementSystem)
+  - [Text Prediction Model in Python](https://github.com/samiternity/MarkovTextPrediction)
 
 ### Languages
 ![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)
