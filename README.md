@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sami Ullah </h1>
+<h1 align="center">Hello, I'm Sami Ullah </h1>
 
 🎓 Freshman BS Artificial Intelligence student at Bahria University, Karachi
 
