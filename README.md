@@ -18,4 +18,3 @@
 ### Let's Connect
 <a href="mailto:samiullah.su@outlook.com">![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/samiullahq">![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)</a>&nbsp;&nbsp;
-<a href="https://t.me/samiternity">![Telegram](https://go-skill-icons.vercel.app/api/icons?i=telegram)</a>
