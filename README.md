@@ -1,6 +1,6 @@
 # Hi, I'm Sami
 
-I'm a BS Artificial Intelligence student at Bahria University in Karachi. I use Claude, Codex, and OpenCode as coding agents when building apps.
+I study Artificial Intelligence at Bahria University in Karachi. I built LMS+ after missing assignment deadlines on the university portal. Students across Bahria's Karachi, Lahore, and Islamabad campuses now use it.
 
 ## Projects
 
