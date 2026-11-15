@@ -1,20 +1,14 @@
-<h1 align="center">Hello, I'm Sami Ullah </h1>
+# Hi, I'm Sami Ullah
 
-🎓 Freshman BS Artificial Intelligence student at Bahria University, Karachi
+I'm a BS Artificial Intelligence student at Bahria University in Karachi. I use Claude, Codex, and OpenCode as coding agents when building apps. I built an MCP server for LMS+ so AI tools can connect to the app.
 
-### About Me
-- Currently mastering C++, Java, Python and exploring AI fundamentals
-- Building projects to strengthen my programming foundation
-- Open to collaborate on beginner-friendly projects
-- Recently built:
-  - [Quiz Management System in C++](https://github.com/samiternity/QuizManagementSystem)
-  - [Text Prediction Model in Python](https://github.com/samiternity/MarkovTextPrediction)
+## Projects
 
-### Languages
-![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)
-![Java](https://go-skill-icons.vercel.app/api/icons?i=java)
-![Python](https://go-skill-icons.vercel.app/api/icons?i=python)
+- [LMS+](https://github.com/samiternity/lmsplus) brings Bahria University's CMS and LMS into one interface, with assignment reminders and an MCP integration.
+- [Intelligent Traffic Control System](https://github.com/samiternity/AI-Traffic-Control-System) uses rules to adjust signal timings based on traffic and give emergency vehicles priority.
+- [Gymiternity](https://github.com/samiternity/Gym-Membership-Management-System) is a desktop app for managing gym memberships, payments, trainers, and attendance.
+- [Receipt Auditor](https://github.com/samiternity/receipt-audit) reads scanned receipts and checks whether the line items add up to the printed total.
 
-### Let's Connect
-<a href="mailto:samiullah.su@outlook.com">![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/samiullahq">![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)</a>&nbsp;&nbsp;
+I've deployed apps using AWS, Firebase, Supabase, Vercel, and Docker containers.
+
+[Email](mailto:samiullah.su@outlook.com) · [LinkedIn](https://www.linkedin.com/in/samiullahq)
