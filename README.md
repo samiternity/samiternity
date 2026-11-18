@@ -10,5 +10,3 @@ I study Artificial Intelligence at Bahria University in Karachi. I built LMS+ af
 - [Receipt Auditor](https://github.com/samiternity/receipt-audit) reads scanned receipts and checks whether the line items add up to the printed total.
 
 I've deployed apps using AWS, Firebase, Supabase, Vercel, and Docker containers.
-
-<a href="mailto:samiullah.su@outlook.com"><img src="https://api.iconify.design/tabler/mail.svg?color=%2376808a" width="16" height="16" alt=""> Email</a> · <a href="https://www.linkedin.com/in/samiullahq"><img src="https://api.iconify.design/tabler/brand-linkedin.svg?color=%2376808a" width="16" height="16" alt=""> LinkedIn</a>
